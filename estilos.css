@@ -1,0 +1,48 @@
+h1 {
+    font-family: Verdana, sans-serif;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    background-color: rgb(223, 255, 253);
+    font-family: Calibri, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+}
+
+html{
+    margin-left: 35%;
+    background-color: rgb(139, 204, 200);
+}
+
+h2{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+form{
+    max-width: 400px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+form div{
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+body{
+    background-color: rgb(139, 204, 200);
+}
+
+button{
+    margin-left: 5%;
+}
